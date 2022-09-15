@@ -16,6 +16,7 @@
     "@strapi/strapi": "4.3.4",
     "better-sqlite3": "7.4.6",
     "mysql": "^2.18.1",
+    "pg": "^8.8.0",
     "pm2": "^5.2.0",
     "strapi-plugin-entity-relationship-chart": "^4.1.0",
     "strapi-plugin-generate-data": "^1.0.15"

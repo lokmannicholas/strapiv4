@@ -1,0 +1,8 @@
+.cache
+build
+documentation/
+license.txt
+tmp
+.git
+node_modules
+.node_history
